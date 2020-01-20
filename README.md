@@ -2,7 +2,7 @@
 
 ## :iphone: Preview
 
-- You can see the mobile app preview printscreens [here](/preview).
+- You can see the preview printscreens [here](/preview).
 
 ### :key: Authentication
 
