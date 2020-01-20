@@ -1,17 +1,47 @@
-# gobarber-mobile-frontend-react-native
+# :barber: gobarber-mobile-react-native
 
-<p align="center">
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520935-86574f00-eac0-11e9-9838-88897ecfae65.png">
+## :iphone: Preview
 
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520936-86574f00-eac0-11e9-85e1-bf8eff2e5391.png">
+- You can see the mobile app preview printscreens [here](/preview).
 
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520937-86574f00-eac0-11e9-8e62-19f88e18276d.png">
+### :key: Authentication
 
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520939-86efe580-eac0-11e9-9e70-ec70a66a1239.png">
+- [x] The user can login using e-mail and password.
 
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520940-86efe580-eac0-11e9-898d-7146de227537.png">
+## :man: User register and update
 
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520941-86efe580-eac0-11e9-9f4f-78bfd9e21dba.png">
+- [x] The mobile app is only for customers, not providers.
+- [x] The user can register using name, e-mail and password.
+- [x] To update the password user need to send a password confirmation and the old password.
+- [x] User passwords are all encripted.
 
-<img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66520944-86efe580-eac0-11e9-8199-2b674a538671.png">
-</p>
+## :calendar: New appointment
+
+- [x] The user can create an appointment with the registered providers.
+
+## :round_pushpin: Appointment list
+
+- [x] Lists all appointments that the user has made, including those that have already expired.
+
+## :wrench: Running the project
+
+- Clone this repository.
+- Install all dependencies using the command `yarn`.
+- Run `yarn start`.
+
+## :pencil2: Observations
+
+- I wasn't able to test the application on iOS because I don't have a MacBook to do it.
+
+## :fire: Used technologies
+
+- React Native
+- Styled Components
+- Reactotron
+- Redux
+- Redux Saga
+- Other React libs.
+
+## :man: Contributors
+
+- @maeldz
